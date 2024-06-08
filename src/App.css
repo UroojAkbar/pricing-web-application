@@ -1,0 +1,30 @@
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.Hicon1{
+    height: 205px;
+    width: 205px;
+    margin-top: -95px;
+}
+.Hicon2{
+    height: 205px;
+    width: 205px;
+    margin-top: -165px;
+    margin-left: -105px;
+}
+.img{
+    height: 200px;
+    width: auto;
+}
+.img1{
+    height: 200px;
+    width: auto;
+}
+.h1{
+     font-family: 'Poppins', sans-serif;
+}
+h5{
+     font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
